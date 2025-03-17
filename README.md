@@ -52,3 +52,20 @@ Backend (Node.js + SQLite) :
 
 
 
+## 📸 Screenshots  
+
+### 🏠 Home Page  
+
+![Home Page](HomePage.png)  
+
+
+### 🎸 Electric Guitars Page  
+
+![Electric Guitars](Electric_Inventory.png)  
+
+
+### 🎵 Acoustic Guitars Page  
+
+![Acoustic Guitars](Acoustic_Inventory.png)
+
+
